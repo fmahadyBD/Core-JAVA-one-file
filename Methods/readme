@@ -1,1 +1,7 @@
 
+1) static method, which can be called directly by class name
+2) instance method, which can be called by object of the class
+3) abstract method, which is a method without a body, it needs to be overridden in subclasses
+4) final method, which can't be overridden in subclasses
+5) native method, which is implemented in another language like C or C++
+6) synchronized method, which is thread-safe, only one thread can execute it at a time.
