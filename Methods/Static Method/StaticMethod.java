@@ -15,7 +15,7 @@ public class StaticMethod {
     public static void main(String[] args) {
         // For the static method, we dont't need to make object .
         // we need to call the static method by using it's class name
-        a obA=new A();
+        a obA=new a();
         obA.non();
         a.staticMathod();// we directly call by its class name
     }
