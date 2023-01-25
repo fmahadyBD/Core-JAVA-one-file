@@ -12,6 +12,8 @@ public class fileCreate {
             // File file = new File("C:\\Users\\MyName\\filename.txt");
             if (file.createNewFile()) {
                 System.out.print("Created");
+                // System.out.println("File created: " + file.getName());
+             
             } else {
                 System.out.println("Already exit");
             }
