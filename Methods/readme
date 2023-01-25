@@ -1,3 +1,5 @@
+<h1>Mehods<h1><br>
+
 
 1) static method, which can be called directly by class name
 2) instance method, which can be called by object of the class
