@@ -1,1 +1,2 @@
 
+An inner class can also be static, which means that you can access it without creating an object of the outer class:
